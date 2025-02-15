@@ -37,7 +37,7 @@ This project provides a Java-based solution for converting XML files to JSON and
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repo/xml-to-json-converter.git
+   git clone https://github.com/Manaf-darabseh/XML2JSON-Extractor.git
    cd xml-to-json-converter
 
 
